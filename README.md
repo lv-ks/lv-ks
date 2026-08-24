@@ -3,12 +3,10 @@
   ## Hi, I'm Lukas!👋
   
 </div>
+
 <div align="center">
-
-<h2>About Me</h2>
-
+  <h2>About Me</h2>
 </div>
-
 🔧 Developer in training  
 🤖 Focused on Discord Bot Development  
 🧠 Building skills in JavaScript / TypeScript and bot architecture
