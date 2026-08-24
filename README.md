@@ -1,6 +1,4 @@
-<div align="center">
-  <h2>Hi, I'm Lukas! 👋</h2>
-</div>
+<div align="center"> ## Hi, I'm Lukas!👋 </div>
 
 <div align="center">
   <h2>About Me</h2>
