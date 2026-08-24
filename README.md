@@ -5,7 +5,9 @@
 </div>
 
 <div align="center">
-  <h2>About Me</h2>
+  
+  **About Me**
+  
 </div>
 
 - 🔧 Developer in training  
