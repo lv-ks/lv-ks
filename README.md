@@ -1,4 +1,8 @@
-## Hi, I'm Lukas!👋
+<div align="center"> 
+  
+  ## Hi, I'm Lukas!👋
+  
+</div>
 
 ## About Me
 🔧 Developer in training  
