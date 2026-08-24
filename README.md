@@ -1,7 +1,5 @@
-<div align="center"> 
-  
-  ## Hi, I'm Lukas!👋
-  
+<div align="center">
+  <h2>Hi, I'm Lukas! 👋</h2>
 </div>
 
 <div align="center">
