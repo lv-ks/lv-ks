@@ -1,9 +1,14 @@
 <div align="center"> 
+  
   ## Hi, I'm Lukas!👋
+  
 </div>
 <div align="center"> 
+  
   ## About Me
+  
 </div>
+
 🔧 Developer in training  
 🤖 Focused on Discord Bot Development  
 🧠 Building skills in JavaScript / TypeScript and bot architecture
