@@ -1,4 +1,10 @@
-## Hi there 👋
+## Hi, I'm Lukas!👋
+
+## About Me
+🔧 Developer in training  
+🤖 Focused on Discord Bot Development  
+🧠 Building skills in JavaScript / TypeScript and bot architecture
+🤔 Always learning and improving
 
 ## 🛠️ Tools & Skills
 
