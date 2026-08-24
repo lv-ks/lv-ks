@@ -3,10 +3,10 @@
   ## Hi, I'm Lukas!👋
   
 </div>
-<div align="center"> 
-  
-  <h2>About Me</h2>
-  
+<div align="center">
+
+<h2>About Me</h2>
+
 </div>
 
 🔧 Developer in training  
