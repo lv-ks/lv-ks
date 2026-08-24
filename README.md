@@ -5,7 +5,7 @@
 </div>
 <div align="center"> 
   
-  ## About Me
+  <h2>About Me</h2>
   
 </div>
 
@@ -19,3 +19,5 @@
 <p>
   <img src="https://skillicons.dev/icons?i=js,ts,github" />
 </p>
+
+[![Profile views](https://komarev.com/ghpvc/?username=DEIN_USERNAME&label=Profile%20views&color=7B2CBF&style=flat)](https://github.com/lv-ks)
