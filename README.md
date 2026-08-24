@@ -3,5 +3,5 @@
 ## 🛠️ Tools & Skills
 
 <p>
-  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,mongodb,git,github,linux" />
+  <p> <img src="https://img.shields.io/badge/TYPESCRIPT-3178C6?style=flat-square&logo=typescript&logoColor=white" />
 </p>
