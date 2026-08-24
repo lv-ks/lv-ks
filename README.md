@@ -1,4 +1,8 @@
-<div align="center"> ## Hi, I'm Lukas!👋 </div>
+<div align="center">
+  
+  ## Hi, I'm Lukas!👋 
+  
+</div>
 
 <div align="center">
   <h2>About Me</h2>
