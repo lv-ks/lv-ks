@@ -5,15 +5,13 @@
 </div>
 
 <div align="center">
-
-## About Me
-
+  <h2>About Me</h2>
 </div>
 
-🔧 Developer in training  
-🤖 Focused on Discord Bot Development  
-🧠 Building skills in JavaScript / TypeScript and bot architecture
-🤔 Always learning and improving
+- 🔧 Developer in training  
+- 🤖 Focused on Discord Bot Development  
+- 🧠 Building skills in JavaScript / TypeScript and bot architecture
+- 🤔 Always learning and improving
 
 ## 🛠️ Tools & Skills
 
