@@ -4,11 +4,7 @@
   
 </div>
 
-<div align="center">
-  
- ### **About Me**
-  
-</div>
+Hey, I'm Lukas!👋
 
 [![Profile views](https://komarev.com/ghpvc/?username=lv-ks&label=Profile%20views&color=7B2CBF&style=flat)](https://github.com/lv-ks)
 
