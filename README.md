@@ -1,6 +1,6 @@
 <div align="center">
   
-  ## Hi, I'm Lukas!👋 
+  # Hi, I'm Lukas!👋 
   
 </div>
 
@@ -9,6 +9,8 @@
  ### **About Me**
   
 </div>
+
+[![Profile views](https://komarev.com/ghpvc/?username=lv-ks&label=Profile%20views&color=7B2CBF&style=flat)](https://github.com/lv-ks)
 
 - 🔧 Developer in training  
 - 🤖 Focused on Discord Bot Development  
@@ -21,4 +23,4 @@
   <img src="https://skillicons.dev/icons?i=js,ts,github" />
 </p>
 
-[![Profile views](https://komarev.com/ghpvc/?username=lv-ks&label=Profile%20views&color=7B2CBF&style=flat)](https://github.com/lv-ks)
+
